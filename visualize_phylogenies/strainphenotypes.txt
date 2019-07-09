@@ -1,0 +1,182 @@
+strain	Species	Genomospecies	Host
+06-478 st	tumefaciens	G1	Leucanthemum
+06-617-1	tumefaciens	G1	Marguerite Daisy
+06-777-2L	tumefaciens	G7	Marguerite Daisy
+12D13	tumefaciens	G8	NA
+12D1	tumefaciens	G4	NA
+13-2099-1-2	tumefaciens	G1	Aspen
+13-626	rhizogenes	rhizogenes	Pear
+14-818c	tumefaciens	G7	Russian Sage
+15-1187-1-2a	tumefaciens	G1	Yarrow
+15-1187-1-2b	tumefaciens	G1	Yarrow
+15-172	tumefaciens	G7	Leucanthemum
+15-174	tumefaciens	G1	Leucanthemum
+16-280-1a	tumefaciens	G7	Lobelia
+16-280-1b	tumefaciens	G7	Lobelia
+1D1108	tumefaciens	G1	Euonymus
+1D132	tumefaciens	G8	Cherry
+1D1460	tumefaciens	G4	Raspberry
+1D1609	tumefaciens	G7	Alfalfa
+2659	tumefaciens	G7_other	Cucumber
+2788	tumefaciens	G8	NA
+39/7	other	nepotum	Plum
+A 13.1	rhizogenes	rhizogenes	Cherry
+A1/90	rhizogenes	rhizogenes	Chestnut
+A19/93	rubi	rubi	Euonymus
+A 24.8	rhizogenes	rhizogenes	Cherry
+A47a	tumefaciens	G1	Yarrow
+A4	rhizogenes	rhizogenes	Rose
+A51	tumefaciens	G1	Yarrow
+A 6.4	rhizogenes	rhizogenes	Cherry
+A6	tumefaciens	G1	Raspberry
+A74a	tumefaciens	G8	Lavender
+AC27/96	other	rhizogenes-like	Pieris
+AC44/96	other	Rhizobium	Pieris
+Ach5	tumefaciens	G1	Yarrow
+AF1/95	tumefaciens	G1	Lilac
+AF27/95	rhizogenes-like	rhizogenes-like	Lilac
+Af3.44	larrymoorei	larrymoorei	NA
+AF52/95	tumefaciens	G1	Lilac
+AF82/95	tumefaciens	G1	Lilac
+Afi8	larrymoorei	larrymoorei	NA
+AL. 21.2	rhizogenes	rhizogenes	Plum
+AL 9.2.2	other	Neorhizobium	Plum
+AP82/95	rhizogenes	rhizogenes	Plum
+AQ11/95	rhizogenes	rhizogenes	Hawthorn
+AR13K/71 (2)	rhizogenes	rhizogenes	Apple
+AR13K/71	rhizogenes	rhizogenes	Crabapple
+Aru2	rubi	rubi	NA
+AS10/95	rhizogenes	rhizogenes	Grape
+AS2A7	rubi	rubi	Euonymous?
+AS2J4	tumefaciens	G4	NA
+ATCC 15834	rhizogenes	rhizogenes	Rose
+ATCC 15955	tumefaciens	G1	Tomato
+AV25/95	vitis	vitis	Grape
+B131/95	rhizogenes	rhizogenes	Peach/Almond Rootstock
+B133/95	rhizogenes	rhizogenes	Peach/Almond Rootstock
+B140/95	tumefaciens	G4	Peach/Almond Rootstock
+B147/94	rhizogenes	rhizogenes	Walnut
+B1/74	rhizogenes	rhizogenes	Nanking Cherry
+B4/73	rhizogenes	rhizogenes	Maple
+B49C/83	rhizogenes	rhizogenes	Apple
+B6806	tumefaciens	G4	NA
+B6	tumefaciens	G4	Apple
+B 7.7	other	soli	Blueberry
+BM37/95	vitis	vitis	Grape
+Bo542	tumefaciens	G1	Dahlia
+C16/80	rhizogenes	rhizogenes	Apple
+C58	tumefaciens	G8	Cherry
+CA75/95	rhizogenes	rhizogenes	Raspberry
+CA84/95	rhizogenes	rhizogenes	Raspberry
+CG101/95	rhizogenes	rhizogenes	Grape
+CG412	vitis	vitis	Grape
+CG53/95	tumefaciens	G1	Grape
+CG678	vitis	vitis	Grape
+CG78	vitis	vitis	Grape
+CG920	tumefaciens	G1	Clematis
+Chang.lab.ID	Species	Genomospecies	Host
+Cherry 2E-2-2 (UHFBA-218)	tumefaciens	G6	Cherry
+CM65/95	rhizogenes	rhizogenes	Grape
+CM79/95	rhizogenes	rhizogenes	Grape
+CM80/95	rhizogenes	rhizogenes	Grape
+CP182/95	rhizogenes	rhizogenes	Wild Grape
+D100/85	rhizogenes	rhizogenes	Blueberry
+D108/85	rhizogenes	rhizogenes	Blueberry
+D10b/87	rhizogenes	rhizogenes	Apple
+D1/76	rhizogenes	rhizogenes	Rose
+D1/94	rhizogenes	rhizogenes	Grape
+D2/76	rhizogenes	rhizogenes	Rose
+D50/85	other	Burkholderia	Blueberry
+Di1411	rhizogenes	rhizogenes	Rose
+Di1411 (Ri)	rhizogenes	rhizogenes	Rose
+Di1462	rhizogenes	rhizogenes	Rose
+Di1472	skierniewicense	skierniewicense	Leucanthemum
+Di1519	tumefaciens	G4	Soil
+Di1525a	tumefaciens	G8	Peony
+Eu2-1NK	rubi	rubi	Euonymous
+Eu2-1RS	rubi	rubi	Euonymous
+Eu3-2NK	rubi	rubi	Euonymous
+Eu3-2RS	rubi	rubi	Euonymous
+F2/5	vitis	vitis	Grape
+FPH-AR2	larrymoorei	larrymoorei	Gaillardia
+FPH-AT4	tumefaciens	G1	Gaillardia
+G 10.5	rhizogenes	rhizogenes	Cherry
+G3/79	tumefaciens	G1	Willow
+G 8.3	tumefaciens	G1	Cherry
+G9/79	tumefaciens	G1	Poplar
+GC1A3	tumefaciens	G7	Lobelia
+H16/79	rhizogenes	rhizogenes	Rose
+H25/79	tumefaciens	G1	Rose
+I2/75	rhizogenes	rhizogenes	Rose
+IL15	tumefaciens	G4	Rose
+IL30	tumefaciens	G1	Rose
+J10B/93	rhizogenes	rhizogenes	Olallieberry
+J2/75	tumefaciens	G1	Apple
+J3/75	tumefaciens	G1	Apple
+J5a/93	rhizogenes	rhizogenes	Olallieberry
+K196/80	tumefaciens	G1	Chrysanthemum
+K224	tumefaciens	G1	Chrysanthemum
+K27	rhizogenes	rhizogenes	Poplar
+K599	tumefaciens	G7_Other	Cucumber
+K6/73	rhizogenes	rhizogenes	Willow
+K84	rhizogenes	rhizogenes	NA
+K95/95	rhizogenes	rhizogenes	Pear
+L20/94	rhizogenes	rhizogenes	Blueberry
+L29/94	rhizogenes	rhizogenes	Blueberry
+LMG 215	tumefaciens	G4	Hop
+LMG 232	tumefaciens	G1	Beet
+LMG 267	tumefaciens	G4	Tomato
+LMG 292	tumefaciens	G8	Lettuce
+LMG 305	tumefaciens	G4	Sedum
+M2/73	rhizogenes	rhizogenes	Birch
+M56 /79	tumefaciens	G1	Cottonwood
+MAFF03-01724	tumefaciens	G7	Cantaloupe
+MAFF301001	tumefaciens	G4	Cherry
+N2/73	tumefaciens	G1	Raspberry
+N33/94	tumefaciens	G8	Raspberry
+N40/94	tumefaciens	G8	Raspberry
+N64/94	rhizogenes	rhizogenes	Raspberry
+NBRC 13261	rubi	rubi	Boysenberry
+NCIB 8196	rhizogenes	rhizogenes	Apple
+NCPPB 2655	tumefaciens	G7_Other	Cucumber
+NCPPB 2657	tumefaciens	G9	Cucumber
+NCPPB 3554 (K309)	vitis	vitis	Grape
+O16/94	tumefaciens	G1	Blueberry
+O54/95	tumefaciens	G4	Cherry
+P1/75	rhizogenes	rhizogenes	Dahlia
+P22/94	tumefaciens	G1	Aspen
+P23/94	rhizogenes	rhizogenes	Aspen
+P86/93	vitis	vitis	Grape
+pTiOctopine	tumefaciens	G1	NA
+PVM 10.5	rhizogenes	rhizogenes	Peach
+"PVM 1,5"	rhizogenes	rhizogenes	Peach
+Q15/94	tumefaciens	G1	Clematis
+R 10.1	rhizogenes	rhizogenes	Peach
+R 1.1	rhizogenes	rhizogenes	Peach
+RO 10.5	rhizogenes	rhizogenes	Rose
+RO 11.4	rhizogenes	rhizogenes	Rose
+RO 1.18	rhizogenes	rhizogenes	Rose
+RO 2.2	rhizogenes	rhizogenes	Rose
+S2/73	tumefaciens	G1	Lippia
+S32/96	rhizogenes	rhizogenes	NA
+S4	vitis	vitis	Grape
+S7/73	tumefaciens	G1	Lippia
+T155/95	rhizogenes	rhizogenes	Grape
+T267/94	vitis	vitis	Grape
+T268/95	vitis	vitis	Grape
+T393/94	vitis	vitis	Grape
+T5/73	rhizogenes	rhizogenes	Rose
+T60/94	vitis	vitis	Grape
+T90/95	tumefaciens	G7	Grape
+U167/95	rhizogenes	rhizogenes	Grape
+V80/94	vitis	vitis	Grape
+W10/94	tumefaciens	G4	Walnut
+W 1.1	rhizogenes	rhizogenes	Plum
+W 1.4	rhizogenes	rhizogenes	Plum
+W2/73	rubi	rubi	Euonymus
+W9/94	tumefaciens	G1	Walnut
+X1/95	rhizogenes	rhizogenes	Peach
+Y2/73	tumefaciens	G1	Dahlia
+Y79/96	rhizogenes-like	rhizogenes-like	Rhododendron
+YO0101	tumefaciens	G1	Aster
+Z4/95	rhizogenes	rhizogenes	Apricot
