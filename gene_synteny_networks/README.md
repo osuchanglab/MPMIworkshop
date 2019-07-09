@@ -1,25 +1,25 @@
 
-#Gene Synteny Graphs
-##A step-by-step tutorial
+# Gene Synteny Graphs
+## A step-by-step tutorial
 This tutorial explains how to generate a gene synteny graph from a set of samples (a genomic region, plasmids, strains, etc.). It assumes a basic knowledge of running code from the command line.
 
-##Necessary input files
+## Necessary input files
 To make a gene synteny graph, you need two things:
-###Gene orders for each of your regions/plasmids/strains
-###Ortholog clustering information grouping genes into clusters
+### Gene orders for each of your regions/plasmids/strains
+### Ortholog clustering information grouping genes into clusters
 
 Gene order information can come from annotated genbank files, or a list of locus tags in the correct order for each sample.
 
 Ortholog clustering information can be the result of any clustering algorithm (typically from reciprocal BLAST searches and MCL clustering)
 Common options include get_homologues or ROARY.
 
-##Prepare a table linking genes (locus tags) to ortholog clusters
+## Prepare a table linking genes (locus tags) to ortholog clusters
 
 The example file "" contains a table linking locus tags from each sample to an ortholog cluster (generated using get_homologues).
 
 To make this table from your own data, you can use example code from the "" script. If you only have a folder full of fasta format files containing clusters, parse that using the first script. If you have output from get_homologues, the second option is much faster.
 
-##Make a gene synteny graph
+## Make a gene synteny graph
 The next step is to generate the gene synteny graph. This graph links pairs of syntenic genes using the shared ortholog cluster names.
 When samples have the same gene order, they will link the same ortholog clusters. When gene order differs between samples, new paths will appear in the network.
 
@@ -32,7 +32,7 @@ The script "" will output a gene synteny graph in the common network "sif" forma
 
 An output file (example.network.out) in sif format will be produced.
 
-##Visualize the graph with Cytoscape
+## Visualize the graph with Cytoscape
 Open Cytoscape on your Mac or PC.
 
 File -> Import -> Network from file...
