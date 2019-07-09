@@ -28,9 +28,14 @@ Gene synteny networks can be produced in any number of ways, and the provide scr
 This script is an example and should be modified to fit your dataset and needs. In the example, single contig input files are assumed to be circular plasmids. If this is not the case for your samples, the code linking the first and last genes should be omitted. Likewise, if you have a list of gene order rather than genbank files, the code will need to be changed to accommodate this. In its current form, the script will output multicopy genes by including the locus_tag with the cluster name in order to simplify the network. If you do not want that, remove the corresponding line in the code. Additionally, samples with multiple contigs result multiple unconnected networks as the true order of contigs is not known.
 
 
-The script "" will output a gene synteny graph in the common network "sif" format. This script takes as input annotated genbank files for each sample (example data PlasmidA.gbk, PlasmidB.gbk, and PlasmidC.gbk) and a table linking ortholog clusters (first column) to locus tags (any other column, separated by tabs) (example file ""). Run the script from the command line:
+The script [make_genesyntenygraph.sh](make_genesyntenygraph.sh) will output a gene synteny graph in the common network "sif" format. This script takes as input annotated genbank files for each sample (example data PlasmidA.gbk, PlasmidB.gbk, and PlasmidC.gbk) and a table linking ortholog clusters (first column) to locus tags (any other column, separated by tabs) (example file ""). 
 
-An output file (example.network.out) in sif format will be produced.
+Run the script from the command line in the folder containing the example genbank files and ortholog cluster table:
+
+`./make_genesyntenygraph.sh`
+
+
+An output file [example.network.out](example.network.out) in sif format will be produced.
 
 ## Visualize the graph with Cytoscape
 Open Cytoscape on your Mac or PC.
