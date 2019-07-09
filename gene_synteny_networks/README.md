@@ -15,9 +15,9 @@ Common options include get_homologues or ROARY.
 
 ## Prepare a table linking genes (locus tags) to ortholog clusters
 
-The example file "" contains a table linking locus tags from each sample to an ortholog cluster (generated using get_homologues).
+The example file [ortholog_cluster_to_locus_table.txt](ortholog_cluster_to_locus_table.txt) contains a table linking locus tags from each sample to an ortholog cluster (generated using get_homologues).
 
-To make this table from your own data, you can use example code from the "" script. If you only have a folder full of fasta format files containing clusters, parse that using the first script. If you have output from get_homologues, the second option is much faster.
+To make this table from your own data, you can use example code from the [makelocustable_gh.sh](makelocustable_gh.sh) script. If you only have a folder full of fasta format files containing clusters, parse that using the first example script. If you have output from get_homologues, the second option is much faster.
 
 ## Make a gene synteny graph
 The next step is to generate the gene synteny graph. This graph links pairs of syntenic genes using the shared ortholog cluster names.
