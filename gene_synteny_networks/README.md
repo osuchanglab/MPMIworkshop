@@ -5,8 +5,8 @@ This tutorial explains how to generate a gene synteny graph from a set of sample
 
 ## Necessary input files
 To make a gene synteny graph, you need two things:
-### Gene orders for each of your regions/plasmids/strains
-### Ortholog clustering information grouping genes into clusters
+* Gene orders for each of your regions/plasmids/strains
+* Ortholog clustering information grouping genes into clusters
 
 Gene order information can come from annotated genbank files, or a list of locus tags in the correct order for each sample.
 
@@ -39,13 +39,14 @@ File -> Import -> Network from file...
 
 choose example.network.out
 
-make sure the "gene1" and "gene2" columns have green or orange circles above them (indicating those are the nodes ot be connected). All other columns are treated as edge annotations.
+Make sure the "gene1" and "gene2" columns have green or orange circles above them (indicating those are the nodes ot be connected). All other columns are treated as edge annotations.
 
 File -> Import -> Table from file...
 
 choose gene_color_table.txt
 
 Make sure the "node" column is the key node (has a key above it)
+
 You won't see any changes yet until will change the network style.
 
 ![Initial cytoscape layout](first.png)
@@ -54,7 +55,9 @@ Click on "Edge Table" at the bottom of the main window. Select all nodes in your
 You can do this quickly by clicking on the first edge for PlasmidA, scroll down, then hold shift and click on the last edge for PlasmidA.
 
 Right click and select "Select edges from highlighted rows"
+
 Then in the main menu select:
+
 Select -> Nodes -> Nodes connected by selected edges
 
 You should have a subset of the nodes highlighted in yellow. These are the nodes from PlasmidA.
@@ -90,4 +93,4 @@ You can change any other visualization options depending on your dataset and wha
 
 You may see some nodes that are only connected to one other node. These are nodes that lie at the end of contigs near contig breaks.
 
-![The final layout](final.png =300x)
+![The final layout](final.png)
