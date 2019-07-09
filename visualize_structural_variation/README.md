@@ -25,3 +25,4 @@ Make the final figure by running the following command:
 
 The final output in pdf form will show the map:
 
+[example output](example_output/PlasmidA_vs_PlasmidB.pdf)
